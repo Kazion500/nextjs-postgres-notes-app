@@ -1,4 +1,5 @@
 # nextjs-postgres-notes-app
+A web application that enable individuals to record notes in the cloud
 
 ## Getting Started
 
